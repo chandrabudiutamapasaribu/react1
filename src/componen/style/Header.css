@@ -1,0 +1,13 @@
+.Header{
+   padding: 20px;
+    background-color: hsl(162, 78%, 45%);
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    /* padding: 10px; */
+    /* display: flex; */
+    font-family: monospace;
+    font-size: 30px;
+    margin-right: 800px;
+}
